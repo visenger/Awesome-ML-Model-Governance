@@ -1,4 +1,4 @@
-# Awesome-ML-Model-Governance
+# Awesome ML Model Governance
 
 ## Model Governance, Ethics, Responsible AI
 
