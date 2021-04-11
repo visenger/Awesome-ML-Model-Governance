@@ -17,7 +17,6 @@
 1. [Evtimov, Ivan, Weidong Cui, Ece Kamar, Emre Kiciman, Tadayoshi Kohno, and Jerry Li. "Security and Machine Learning in the Real World." arXiv (2020).](https://arxiv.org/pdf/2007.07205.pdf)
 1. [Explainable AI (Gartner Prediction for 2023)](https://www.gartner.com/en/conferences/apac/data-analytics-india/gartner-insights/rn-top-10-data-analytics-trends/explainable-ai)
 1. [What We've Learned to Control. By Ben Recht](https://www.argmin.net/2020/06/29/tour-revisited/)
-1. [State of AI Ethics June 2020 Report by the Montreal AI Ethics Institute](https://bit.ly/stateofaiethics1)
 1. [Practical Data Ethics](https://ethics.fast.ai/)
 1. Vasudevan, Sriram and Kenthapadi, Krishnaram. ["LiFT: A Scalable Framework for Measuring Fairness in ML Applications"](https://arxiv.org/abs/2008.07433) (2020) - Code: [The LinkedIn Fairness Toolkit (LiFT)](https://github.com/linkedin/LiFT)
 1. [Four Principles of Explainable Artificial Intelligence (NIST Draft). Phillips, P.J., Hahn, A.C., Fontana, P.C., Broniatowski, D.A. and Przybocki, M.A., 2020.](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8312-draft.pdf)
@@ -30,4 +29,9 @@
 1. [Seven legal questions for data scientists](https://www.oreilly.com/radar/seven-legal-questions-for-data-scientists/)
 1. [2020 in Review: 8 New AI Regulatory Proposals from Governments](https://syncedreview.com/2020/12/31/2020-in-review-8-new-ai-regulatory-proposals-from-governments/)
 1. [Model Governance resources](https://github.com/bnh-ai/resources)
-1. [2020 in Review: 8 New AI Regulatory Proposals from Governments](https://syncedreview.com/2020/12/31/2020-in-review-8-new-ai-regulatory-proposals-from-governments/)
+
+# Reports
+
+1. [State of AI Ethics June 2020 Report by the Montreal AI Ethics Institute](https://montrealethics.ai/wp-content/uploads/2020/06/State-of-AI-Ethics-June-2020-report.pdf)
+2. [State of AI Ethics October 2020 Report by the Montreal AI Ethics Institute](https://montrealethics.ai/wp-content/uploads/2020/10/State-of-AI-Ethics-Oct-2020.pdf)
+3. [State of AI Ethics January 2021 Report by the Montreal AI Ethics Institute](https://montrealethics.ai/wp-content/uploads/2021/01/State-of-AI-Ethics-Report-January-2021.pdf)
