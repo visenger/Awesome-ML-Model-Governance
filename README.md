@@ -27,7 +27,7 @@
 1. [2020 in Review: 8 New AI Regulatory Proposals from Governments](https://syncedreview.com/2020/12/31/2020-in-review-8-new-ai-regulatory-proposals-from-governments/)
 1. [Model Governance resources](https://github.com/bnh-ai/resources)
 1. [ML Cards for D/MLOps Governance (The combination of code, data, model, and service cards for D/MLOps, as an integrated solution.)](https://databaseline.tech/ml-cards/)
-1. x
+1. [To regulate AI, try playing in a sandbox](https://www.morningbrew.com/emerging-tech/stories/2021/05/26/regulate-ai-just-play-sandbox)
 
 # Security for ML
 
