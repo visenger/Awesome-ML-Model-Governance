@@ -2,6 +2,7 @@
 
 ## Model Governance, Ethics, Responsible AI
 
+1. [Book: "Responsible AI". 2022. by Patrick Hall, Rumman Chowdhury. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)
 1. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
 1. [Book: "Fairness and machine learning: Limitations and Opportunities." Barocas, S., Hardt, M. and Narayanan, A., 2018.](https://fairmlbook.org/)
 1. [What are model governance and model operations? A look at the landscape of tools for building and deploying robust, production-ready machine learning models](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
@@ -28,6 +29,8 @@
 1. [Model Governance resources](https://github.com/bnh-ai/resources)
 1. [ML Cards for D/MLOps Governance (The combination of code, data, model, and service cards for D/MLOps, as an integrated solution.)](https://databaseline.tech/ml-cards/)
 1. [To regulate AI, try playing in a sandbox](https://www.morningbrew.com/emerging-tech/stories/2021/05/26/regulate-ai-just-play-sandbox)
+1. [Biases in AI Systems. A survey for practitioners](https://queue.acm.org/detail.cfm?id=3466134)
+1. [Artificial Intelligence Incident Database](https://incidentdatabase.ai/)
 
 # Security for ML
 
@@ -35,9 +38,17 @@
 1. [Artifical intelligence and machine learning security (by Microsoft)](https://docs.microsoft.com/en-us/security/engineering/failure-modes-in-machine-learning) The references therein are useful.
 1. [Evtimov, Ivan, Weidong Cui, Ece Kamar, Emre Kiciman, Tadayoshi Kohno, and Jerry Li. "Security and Machine Learning in the Real World." arXiv (2020).](https://arxiv.org/pdf/2007.07205.pdf)
 1. [Machine Learning Systems: Security](https://sahbichaieb.com/mlsystems-security/)
+1. [Enterprise Security and Governance MLOps (by Diego Oppenheimer)](https://youtu.be/JNZk8diyIuE)
+1. [Adversarial Machine Learning 101](https://github.com/mitre/advmlthreatmatrix/blob/master/pages/adversarial-ml-101.md#adversarial-machine-learning-101)
+1. [ATLAS - Adversarial Threat Landscape for Artificial-Intelligence Systems](https://github.com/mitre/advmlthreatmatrix)
+
 
 # Reports
 
 1. [State of AI Ethics June 2020 Report by the Montreal AI Ethics Institute](https://montrealethics.ai/wp-content/uploads/2020/06/State-of-AI-Ethics-June-2020-report.pdf)
 2. [State of AI Ethics October 2020 Report by the Montreal AI Ethics Institute](https://montrealethics.ai/wp-content/uploads/2020/10/State-of-AI-Ethics-Oct-2020.pdf)
 3. [State of AI Ethics January 2021 Report by the Montreal AI Ethics Institute](https://montrealethics.ai/wp-content/uploads/2021/01/State-of-AI-Ethics-Report-January-2021.pdf)
+
+# Organizations
+
+1. [AI Ethics Impact Group: From Principles to Practice](https://www.ai-ethics-impact.org/en)
