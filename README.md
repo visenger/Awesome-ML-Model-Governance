@@ -31,6 +31,7 @@
 1. [To regulate AI, try playing in a sandbox](https://www.morningbrew.com/emerging-tech/stories/2021/05/26/regulate-ai-just-play-sandbox)
 1. [Biases in AI Systems. A survey for practitioners](https://queue.acm.org/detail.cfm?id=3466134)
 1. [Artificial Intelligence Incident Database](https://incidentdatabase.ai/)
+1. [Data Ethics Considerations for more Responsible AI](https://arize.com/data-ethics-in-africa/)
 
 # Security for ML
 
