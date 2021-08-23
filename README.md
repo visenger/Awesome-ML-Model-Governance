@@ -5,6 +5,7 @@
 1. [Book: "Responsible AI". 2022. by Patrick Hall, Rumman Chowdhury. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)
 1. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
 1. [Book: "Fairness and machine learning: Limitations and Opportunities." Barocas, S., Hardt, M. and Narayanan, A., 2018.](https://fairmlbook.org/)
+1. [Book: "The Framework for ML Governance" by Kyle Gallatin. 2021.  O'Reilly Media](https://learning.oreilly.com/library/view/the-framework-for/9781098100483/)
 1. [What are model governance and model operations? A look at the landscape of tools for building and deploying robust, production-ready machine learning models](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
 2. [Specialized tools for machine learning development and model governance are becoming essential. Why companies are turning to specialized machine learning tools like MLflow.](https://www.oreilly.com/ideas/specialized-tools-for-machine-learning-development-and-model-governance-are-becoming-essential)
 1. [What are model governance and model operations? – O’Reilly](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
