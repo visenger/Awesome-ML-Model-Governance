@@ -21,6 +21,7 @@
 1. Vasudevan, Sriram and Kenthapadi, Krishnaram. ["LiFT: A Scalable Framework for Measuring Fairness in ML Applications"](https://arxiv.org/abs/2008.07433) (2020) - Code: [The LinkedIn Fairness Toolkit (LiFT)](https://github.com/linkedin/LiFT)
 1. [Four Principles of Explainable Artificial Intelligence (NIST Draft). Phillips, P.J., Hahn, A.C., Fontana, P.C., Broniatowski, D.A. and Przybocki, M.A., 2020.](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8312-draft.pdf)
 1. [Data Ethics Canvas](https://theodi.org/article/data-ethics-canvas/). Helps identify and manage ethical issues – at the start of a project that uses data, and throughout. Also see [Ethics Canvas](https://web.archive.org/web/20210528013717/https://www.ethicscanvas.org/) for broader scope.
+1. [The Open Ethics Canvas by the Open Ethics](https://github.com/OpenEthicsAI/Canvas)
 1. [ABOUT ML](https://www.partnershiponai.org/about-ml/) - Annotation and Benchmarking on Understanding and Transparency of Machine learning Lifecycles.
 1. [Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah and Gebru, Timnit. "Model Cards for Model Reporting" (2019)](https://arxiv.org/abs/1908.06165)  - Code: [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit)
 1. [Navigate the road to Responsible AI – Gradient Flow Blog](https://gradientflow.com/navigate-the-road-to-responsible-ai/)
@@ -34,6 +35,11 @@
 1. [Artificial Intelligence Incident Database](https://incidentdatabase.ai/)
 1. [Data Ethics Considerations for more Responsible AI](https://arize.com/data-ethics-in-africa/)
 1. [Book: Interpretable Machine Learning with Python (by Serg Masis)](https://datatalks.club/books/20210719-interpretable-machine-learning-with-python.html)
+1. [Fairness in Machine Learning](https://fairlearn.org/main/user_guide/fairness_in_machine_learning.html)
+1. [Paper: Hendrycks, Dan, Nicholas Carlini, John Schulman, and Jacob Steinhardt. "Unsolved problems in ml safety."(2021)](https://arxiv.org/pdf/2109.13916.pdf)
+1. [Top MLOps Explainability frameworks — 2021](https://medium.com/technexthere/top-mlops-explainability-frameworks-2021-8a3d8f1d1d0e)
+
+
 
 # Security for ML
 
@@ -55,3 +61,4 @@
 # Organizations
 
 1. [AI Ethics Impact Group: From Principles to Practice](https://www.ai-ethics-impact.org/en)
+1. [Responsible AI Institute](https://www.responsible.ai/)
