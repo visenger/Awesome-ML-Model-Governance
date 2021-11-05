@@ -33,6 +33,7 @@
 1. [Biases in AI Systems. A survey for practitioners](https://queue.acm.org/detail.cfm?id=3466134)
 1. [Artificial Intelligence Incident Database](https://incidentdatabase.ai/)
 1. [Data Ethics Considerations for more Responsible AI](https://arize.com/data-ethics-in-africa/)
+1. [Book: Interpretable Machine Learning with Python (by Serg Masis)](https://datatalks.club/books/20210719-interpretable-machine-learning-with-python.html)
 
 # Security for ML
 
