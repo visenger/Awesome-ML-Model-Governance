@@ -37,8 +37,6 @@
 1. [Book: Interpretable Machine Learning with Python (by Serg Masis)](https://datatalks.club/books/20210719-interpretable-machine-learning-with-python.html)
 1. [Fairness in Machine Learning](https://fairlearn.org/main/user_guide/fairness_in_machine_learning.html)
 1. [Paper: Hendrycks, Dan, Nicholas Carlini, John Schulman, and Jacob Steinhardt. "Unsolved problems in ml safety."(2021)](https://arxiv.org/pdf/2109.13916.pdf)
-1. [Top MLOps Explainability frameworks — 2021](https://medium.com/technexthere/top-mlops-explainability-frameworks-2021-8a3d8f1d1d0e)
-
 
 
 # Security for ML
