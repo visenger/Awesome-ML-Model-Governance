@@ -20,6 +20,7 @@
 1. [Practical Data Ethics](https://ethics.fast.ai/)
 1. Vasudevan, Sriram and Kenthapadi, Krishnaram. ["LiFT: A Scalable Framework for Measuring Fairness in ML Applications"](https://arxiv.org/abs/2008.07433) (2020) - Code: [The LinkedIn Fairness Toolkit (LiFT)](https://github.com/linkedin/LiFT)
 1. [Four Principles of Explainable Artificial Intelligence (NIST Draft). Phillips, P.J., Hahn, A.C., Fontana, P.C., Broniatowski, D.A. and Przybocki, M.A., 2020.](https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8312-draft.pdf)
+1. [Philosophical grounding of AI fairness in Business Ethics](https://link.springer.com/article/10.1007/s10551-022-05055-8)
 1. [Data Ethics Canvas](https://theodi.org/article/data-ethics-canvas/). Helps identify and manage ethical issues – at the start of a project that uses data, and throughout. Also see [Ethics Canvas](https://web.archive.org/web/20210528013717/https://www.ethicscanvas.org/) for broader scope.
 1. [The Open Ethics Canvas by the Open Ethics](https://github.com/OpenEthicsAI/Canvas)
 1. [ABOUT ML](https://www.partnershiponai.org/about-ml/) - Annotation and Benchmarking on Understanding and Transparency of Machine learning Lifecycles.
