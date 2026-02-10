@@ -39,6 +39,9 @@
 1. [Fairness in Machine Learning](https://fairlearn.org/main/user_guide/fairness_in_machine_learning.html)
 1. [Paper: Hendrycks, Dan, Nicholas Carlini, John Schulman, and Jacob Steinhardt. "Unsolved problems in ml safety."(2021)](https://arxiv.org/pdf/2109.13916.pdf)
 
+# Tools & Frameworks
+
+- [DatFlash](https://github.com/datflash-oss/dataset-transaction-tracker) – Tracks publicly reported dataset transactions, releases, and changes relevant to AI governance and data evaluation.
 
 # Security for ML
 
