@@ -49,6 +49,7 @@
 1. [Enterprise Security and Governance MLOps (by Diego Oppenheimer)](https://youtu.be/JNZk8diyIuE)
 1. [Adversarial Machine Learning 101](https://github.com/mitre/advmlthreatmatrix/blob/master/pages/adversarial-ml-101.md#adversarial-machine-learning-101)
 1. [ATLAS - Adversarial Threat Landscape for Artificial-Intelligence Systems](https://github.com/mitre/advmlthreatmatrix)
+1. [Systima Comply: Open-source EU AI Act compliance scanner for CI/CD pipelines](https://github.com/systima-ai/comply)
 
 
 # Reports
