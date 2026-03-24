@@ -8,7 +8,7 @@
 1. [Book: "The Framework for ML Governance" by Kyle Gallatin. 2021.  O'Reilly Media](https://learning.oreilly.com/library/view/the-framework-for/9781098100483/)
 1. [What are model governance and model operations? A look at the landscape of tools for building and deploying robust, production-ready machine learning models](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
 2. [Specialized tools for machine learning development and model governance are becoming essential. Why companies are turning to specialized machine learning tools like MLflow.](https://www.oreilly.com/ideas/specialized-tools-for-machine-learning-development-and-model-governance-are-becoming-essential)
-1. [What are model governance and model operations? – O’Reilly](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
+1. [What are model governance and model operations? – O'Reilly](https://www.oreilly.com/radar/what-are-model-governance-and-model-operations/)
 1. [AI Fairness 360, A Step Towards Trusted AI - IBM Research](https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/)
 1. [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai-resources)
 1. [Learn how to integrate Responsible AI practices into your ML workflow using TensorFlow](https://www.tensorflow.org/resources/responsible-ai)
@@ -38,6 +38,7 @@
 1. [Book: Interpretable Machine Learning with Python (by Serg Masis)](https://datatalks.club/books/20210719-interpretable-machine-learning-with-python.html)
 1. [Fairness in Machine Learning](https://fairlearn.org/main/user_guide/fairness_in_machine_learning.html)
 1. [Paper: Hendrycks, Dan, Nicholas Carlini, John Schulman, and Jacob Steinhardt. "Unsolved problems in ml safety."(2021)](https://arxiv.org/pdf/2109.13916.pdf)
+1. [Venturalitica SDK](https://github.com/Venturalitica/venturalitica-sdk) — Open-source Python SDK for EU AI Act and ISO 42001 compliance. Integrates OSCAL policy enforcement, bias auditing, and CycloneDX ML BOM generation into ML training pipelines.
 
 
 # Security for ML
