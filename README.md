@@ -40,6 +40,10 @@
 1. [Paper: Hendrycks, Dan, Nicholas Carlini, John Schulman, and Jacob Steinhardt. "Unsolved problems in ml safety."(2021)](https://arxiv.org/pdf/2109.13916.pdf)
 
 
+# Compliance and Audit Tools
+
+1. [AIR Blackbox](https://github.com/airblackbox/gateway) - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
+
 # Security for ML
 
 1. [Cybersecurity for Data Science](https://www.coursera.org/learn/cybersecurity-for-data-science)
