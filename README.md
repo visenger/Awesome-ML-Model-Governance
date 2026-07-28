@@ -61,3 +61,8 @@
 
 1. [AI Ethics Impact Group: From Principles to Practice](https://www.ai-ethics-impact.org/en)
 1. [Responsible AI Institute](https://www.responsible.ai/)
+
+
+## Policy & Compliance
+
+- [Gracestack AI-Policy Template](https://tools.gracestack.se/ai-policy.html) — Ready-to-use AI governance policy for organizations. Covers model inventory, risk tiering, human oversight requirements, and EU AI Act compliance. 499 SEK one-time.
