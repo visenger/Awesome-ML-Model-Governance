@@ -2,6 +2,7 @@
 
 ## Model Governance, Ethics, Responsible AI
 
+1. [Council of AI — GSPC](https://councilof.ai) — Independent AI-governance **measurement** board (not certification). Living board **22 axis · 22 measured** via https://councilof.ai/api/gspc — quote `totals.public_count`. Methodology DOI [10.5281/zenodo.21991104](https://doi.org/10.5281/zenodo.21991104).
 1. [Book: "Responsible AI". 2022. by Patrick Hall, Rumman Chowdhury. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/responsible-ai/9781098102425/)
 1. [Book: "Practical Fairness". 2020. By Aileen Nielsen. O'Reilly Media, Inc.](https://learning.oreilly.com/library/view/practical-fairness/9781492075721/)
 1. [Book: "Fairness and machine learning: Limitations and Opportunities." Barocas, S., Hardt, M. and Narayanan, A., 2018.](https://fairmlbook.org/)
